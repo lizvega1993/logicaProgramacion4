@@ -1,0 +1,21 @@
+body{
+    background-image: url('../img/simpsontv.png');
+    background-repeat: no-repeat;
+    background-position: 50% -30% ;
+    background-size: 620px;
+    position: absolute;
+}
+h1{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin-left: 350px;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+img{
+    display: flex;
+    height: 340px;
+    position: relative;
+    left: 409px;
+    top: 77px;
+    border-radius: 90px;
+}
